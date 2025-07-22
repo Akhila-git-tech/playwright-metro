@@ -1,0 +1,16 @@
+{
+  "name": "playwright-metro-test",
+  "version": "1.0.0",
+  "description": "Playwright test metro.co.uk",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && npx playwright install",
+  "test": "playwright test",
+  "test:report": "playwright show-report"
+},
+  "author": "Akhila",
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "playwright": "^1.38.0"
+  }
+}

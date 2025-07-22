@@ -1,0 +1,17 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Playwright reports
+playwright-report/
+test-results/
+
+# Ignore npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore package lock files if not required
+package-lock.json
+
+# Ignore screenshots directory if needed
+screenshots/
