@@ -21,6 +21,7 @@ This repository contains a Playwright-based test automation framework using **Pa
 2. **install dependencies and playwright browsers:**
    ```bash
    npm run build
+   note: wait for playwright browsers fully install
 
 3. **Run Tests:**
    ```bash
