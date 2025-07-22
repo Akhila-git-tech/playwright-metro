@@ -15,5 +15,20 @@ This repository contains a Playwright-based test automation framework using **Pa
 ## **Project Setup**
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/Akhila-git-tech/playwright-metro>
    cd <project-directory>
+
+2. **install dependencies and playwright browsers:**
+   ```bash
+   npm run build
+
+3. **Run Tests:**
+   ```bash
+   npm test
+
+4. **View reports:**
+   ```bash
+   npm run test:report
+
+
+   

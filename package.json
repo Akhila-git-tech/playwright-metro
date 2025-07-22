@@ -4,7 +4,7 @@
   "description": "Playwright test metro.co.uk",
   "main": "index.js",
   "scripts": {
-    "build": "npm install && npx playwright install",
+  "build": "npm install && npx playwright install",
   "test": "playwright test",
   "test:report": "playwright show-report"
 },
